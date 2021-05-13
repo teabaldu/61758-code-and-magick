@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Алексей Енот](http://up.ha.local/javascript/10/user/61758).
+* Студент: Михалева Юлия
 
 ---
 
